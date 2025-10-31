@@ -31,12 +31,10 @@ Currently, I’m enhancing my skills through real-world projects and certificati
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="www.linkedin.com/in/anjalipandey023" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjali%20Pandey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anjalipandey023)
+
 
 ---
 
